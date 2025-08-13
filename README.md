@@ -47,11 +47,11 @@ _● Can customers be classified into meaningful groups (e.g., by age, product p
 _● How do different customer profiles vary in terms of order size, frequency, and product mix?_
 
 ## 🚀 Fast Facts
-Tools: Python (Pandas, NumPy), Jupyter Notebooks, Matplotlib, Seaborn
+**Tools:** Python (Pandas, NumPy), Jupyter Notebooks, Matplotlib, Seaborn
 
-Focus: Data cleaning, feature engineering, exploratory analysis, predictive modeling
+**Focus:** Data cleaning, feature engineering, exploratory analysis, predictive modeling
 
-Dataset: 3M+ orders from 200K Instacart customers
+**Dataset:** 3M+ orders from 200K Instacart customers
 
 ## 🧼 Data Cleaning Process
 ● Reduced dataset to essential tables for performance
@@ -65,15 +65,15 @@ Dataset: 3M+ orders from 200K Instacart customers
 ● Validated joins between customers, products, and orders
 
 ## 🔑 Key Findings
-Shopping Peaks: Weekends and Mondays are highest in volume; certain hours correlate with higher spending
+**Shopping Peaks:** Weekends and Mondays are highest in volume; certain hours correlate with higher spending
 
-Product Trends: Fresh produce, dairy, and pantry staples dominate sales
+**Product Trends:** Fresh produce, dairy, and pantry staples dominate sales
 
-Loyalty Segments: A small group of frequent buyers drives a disproportionate share of reorders
+**Loyalty Segments:** A small group of frequent buyers drives a disproportionate share of reorders
 
-Regional Insights: Midwest/South focus on family essentials; coastal regions lean toward specialty goods
+**Regional Insights:** Midwest/South focus on family essentials; coastal regions lean toward specialty goods
 
-Demographics: Larger households place bigger, more repetitive orders, signaling loyalty potential
+**Demographics:** Larger households place bigger, more repetitive orders, signaling loyalty potential
 
 ## 🧠 Insights to Action
 ● Boost Engagement on Peak Days: Offer promotions during weekends and Mondays
