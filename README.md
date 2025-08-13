@@ -9,11 +9,11 @@ The ultimate goal is to tailor campaigns to specific customer segments and measu
 ## Project Goal
 Perform an initial exploratory data analysis of Instacart’s basket data to:
 
-●Uncover actionable insights into customer behavior
+● Uncover actionable insights into customer behavior
 
-●Identify patterns in shopping habits
+● Identify patterns in shopping habits
 
-●Recommend segmentation strategies for targeted marketing campaigns
+● Recommend segmentation strategies for targeted marketing campaigns
 
 ## Key Business Questions
 ### Peak Shopping Periods
@@ -26,7 +26,7 @@ _● Are there specific times when customers spend the most?_
 
 _● Which products and categories dominate customer carts?_
 
-#### Customer Loyalty
+### Customer Loyalty
 
 _● What is the distribution of brand loyalty?_
 
@@ -54,15 +54,15 @@ Focus: Data cleaning, feature engineering, exploratory analysis, predictive mode
 Dataset: 3M+ orders from 200K Instacart customers
 
 ## 🧼 Data Cleaning Process
-●Reduced dataset to essential tables for performance
+● Reduced dataset to essential tables for performance
 
-●Standardized naming and merged related tables
+● Standardized naming and merged related tables
 
-●Engineered features such as reorder rate, days since prior order, and cart position
+● Engineered features such as reorder rate, days since prior order, and cart position
 
-●Filtered nulls and removed edge cases
+● Filtered nulls and removed edge cases
 
-●Validated joins between customers, products, and orders
+● Validated joins between customers, products, and orders
 
 ## 🔑 Key Findings
 Shopping Peaks: Weekends and Mondays are highest in volume; certain hours correlate with higher spending
@@ -76,10 +76,10 @@ Regional Insights: Midwest/South focus on family essentials; coastal regions lea
 Demographics: Larger households place bigger, more repetitive orders, signaling loyalty potential
 
 ## 🧠 Insights to Action
-●Boost Engagement on Peak Days: Offer promotions during weekends and Mondays
+● Boost Engagement on Peak Days: Offer promotions during weekends and Mondays
 
-●Reward Loyalty Clusters: Introduce subscription models or bundled offers for frequent shoppers
+● Reward Loyalty Clusters: Introduce subscription models or bundled offers for frequent shoppers
 
-●Adapt to Regional Needs: Tailor inventory based on local product preferences
+● Adapt to Regional Needs: Tailor inventory based on local product preferences
 
-●Personalize Recommendations: Use behavioral clusters for product suggestions and seasonal campaigns
+● Personalize Recommendations: Use behavioral clusters for product suggestions and seasonal campaigns
