@@ -76,10 +76,10 @@ _● How do different customer profiles vary in terms of order size, frequency, 
 **Demographics:** Larger households place bigger, more repetitive orders, signaling loyalty potential
 
 ## 🧠 Insights to Action
-● Boost Engagement on Peak Days: Offer promotions during weekends and Mondays
+● **Boost Engagement on Peak Days:** Offer promotions during weekends and Mondays
 
-● Reward Loyalty Clusters: Introduce subscription models or bundled offers for frequent shoppers
+● **Reward Loyalty Clusters:** Introduce subscription models or bundled offers for frequent shoppers
 
-● Adapt to Regional Needs: Tailor inventory based on local product preferences
+● **Adapt to Regional Needs:** Tailor inventory based on local product preferences
 
-● Personalize Recommendations: Use behavioral clusters for product suggestions and seasonal campaigns
+● **Personalize Recommendations:** Use behavioral clusters for product suggestions and seasonal campaigns
