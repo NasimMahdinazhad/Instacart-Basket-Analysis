@@ -1,12 +1,12 @@
-🛒 Instacart Basket Analysis
-Analyzing Baskets. Predicting Behavior. Driving Targeted Marketing.
-
-Description
+# 🛒 Instacart Basket Analysis
+## Analyzing Baskets. Predicting Behavior. Driving Targeted Marketing
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+## Description
 Instacart is an online grocery platform operating through a mobile app. While the company already enjoys strong sales, stakeholders want deeper insights into customer purchasing patterns. They aim to understand the diversity of their customer base, how behaviors differ across groups, and whether a targeted marketing strategy could outperform a one-size-fits-all approach.
 
 The ultimate goal is to tailor campaigns to specific customer segments and measure their impact on sales.
-
-Project Goal
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+## Project Goal
 Perform an initial exploratory data analysis of Instacart’s basket data to:
 
 Uncover actionable insights into customer behavior
