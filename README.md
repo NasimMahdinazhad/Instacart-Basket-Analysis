@@ -1,59 +1,59 @@
 # 🛒 Instacart Basket Analysis
 ## Analyzing Baskets. Predicting Behavior. Driving Targeted Marketing
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 ## Description
 Instacart is an online grocery platform operating through a mobile app. While the company already enjoys strong sales, stakeholders want deeper insights into customer purchasing patterns. They aim to understand the diversity of their customer base, how behaviors differ across groups, and whether a targeted marketing strategy could outperform a one-size-fits-all approach.
 
 The ultimate goal is to tailor campaigns to specific customer segments and measure their impact on sales.
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 ## Project Goal
 Perform an initial exploratory data analysis of Instacart’s basket data to:
 
-Uncover actionable insights into customer behavior
+●Uncover actionable insights into customer behavior
 
-Identify patterns in shopping habits
+●Identify patterns in shopping habits
 
-Recommend segmentation strategies for targeted marketing campaigns
+●Recommend segmentation strategies for targeted marketing campaigns
 
-Key Business Questions
-Peak Shopping Periods
+## Key Business Questions
+### Peak Shopping Periods
 
-What are the busiest days and hours for order volume?
+_●What are the busiest days and hours for order volume?_
 
-Are there specific times when customers spend the most?
+_●Are there specific times when customers spend the most?_
 
-Product Popularity
+### Product Popularity
 
-Which products and categories dominate customer carts?
+_●Which products and categories dominate customer carts?_
 
-Customer Loyalty
+#### Customer Loyalty
 
-What is the distribution of brand loyalty?
+_●What is the distribution of brand loyalty?_
 
-How do ordering habits differ between loyal and non-loyal customers?
+_●How do ordering habits differ between loyal and non-loyal customers?_
 
-Regional Differences
+### Regional Differences
 
-Are there variations in ordering habits by region?
+_●Are there variations in ordering habits by region?_
 
-Demographic Insights
+### Demographic Insights
 
-How do age, family status, and income influence shopping behavior?
+_●How do age, family status, and income influence shopping behavior?_
 
-Can customers be classified into meaningful groups (e.g., by age, product preferences, spending)?
+_●Can customers be classified into meaningful groups (e.g., by age, product preferences, spending)?_
 
-Profile-Based Behaviors
+### Profile-Based Behaviors
 
-How do different customer profiles vary in terms of order size, frequency, and product mix?
+_●How do different customer profiles vary in terms of order size, frequency, and product mix?_
 
-🚀 Fast Facts
+## 🚀 Fast Facts
 Tools: Python (Pandas, NumPy), Jupyter Notebooks, Matplotlib, Seaborn
 
 Focus: Data cleaning, feature engineering, exploratory analysis, predictive modeling
 
 Dataset: 3M+ orders from 200K Instacart customers
 
-🔑 Key Findings
+## 🔑 Key Findings
 Shopping Peaks: Weekends and Mondays are highest in volume; certain hours correlate with higher spending
 
 Product Trends: Fresh produce, dairy, and pantry staples dominate sales
@@ -64,33 +64,22 @@ Regional Insights: Midwest/South focus on family essentials; coastal regions lea
 
 Demographics: Larger households place bigger, more repetitive orders, signaling loyalty potential
 
-🧼 Data Cleaning Process
-Reduced dataset to essential tables for performance
+## 🧼 Data Cleaning Process
+●Reduced dataset to essential tables for performance
 
-Standardized naming and merged related tables
+●Standardized naming and merged related tables
 
-Engineered features such as reorder rate, days since prior order, and cart position
+●Engineered features such as reorder rate, days since prior order, and cart position
 
-Filtered nulls and removed edge cases
+●Filtered nulls and removed edge cases
 
-Validated joins between customers, products, and orders
+●Validated joins between customers, products, and orders
 
-📊 Visual Insights
-Orders by Day/Hour: Identifies peak order periods for targeted promotions
+## 🧠 Insights to Action
+●Boost Engagement on Peak Days: Offer promotions during weekends and Mondays
 
-Loyalty Heatmaps: Highlights reorder patterns among high-value users
+●Reward Loyalty Clusters: Introduce subscription models or bundled offers for frequent shoppers
 
-Regional Spending Charts: Maps differences in purchasing preferences
+●Adapt to Regional Needs: Tailor inventory based on local product preferences
 
-Family-Oriented Behavior: Shows higher repeat purchases in large households
-
-Product Popularity Dashboards: Displays top-selling categories and items
-
-🧠 Insights to Action
-Boost Engagement on Peak Days: Offer promotions during weekends and Mondays
-
-Reward Loyalty Clusters: Introduce subscription models or bundled offers for frequent shoppers
-
-Adapt to Regional Needs: Tailor inventory based on local product preferences
-
-Personalize Recommendations: Use behavioral clusters for product suggestions and seasonal campaigns
+●Personalize Recommendations: Use behavioral clusters for product suggestions and seasonal campaigns
